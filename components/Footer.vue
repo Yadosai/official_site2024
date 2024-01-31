@@ -13,9 +13,7 @@
             <div class="contents">
               <p class="item">企画</p>
               <div class="line">
-                <p>
-                  ゆかたコンテスト&nbsp;火文字&nbsp;野外ライブ&nbsp;ダンス
-                </p>
+                <p>ゆかたコンテスト&nbsp;火文字&nbsp;野外ライブ&nbsp;ダンス</p>
               </div>
             </div>
             <div class="blank"></div>
@@ -49,7 +47,7 @@
       <div class="columns">
         <div class="column">
           <p class="has-text-centered p-4">
-            ©第49回宿舎祭実行委員会<br />
+            ©第50回宿舎祭実行委員会<br />
             当サイトでは、アクセスログの収集・解析にGoogle
             アナリティクスを使用しております。<br />
             GoogleアナリティクスではCookieを使用し、個人を特定する情報を含まずにログを収集しております。<br />
